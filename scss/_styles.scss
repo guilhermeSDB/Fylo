@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap');
+
+// Layout
+// The designs were created to the following widths:
+
+// - Mobile: 375px
+// - Desktop: 1440px
+
+// Colors  ------------------------------------
+// ### Primary
+
+$DarkBlue: hsl(217, 28%, 15%); //(intro and email sign up background)
+$DarkBlueBG: hsl(218, 28%, 13%); //(main background)
+$DarkBlueFooter: hsl(216, 53%, 9%); // (footer background)
+$DarkBlueTestimonials:hsl(219, 30%, 18%); //(testimonials background)
+
+// ### Accent
+
+$Cyan:hsl(176, 68%, 64%) ;//(inside call-to-action gradient)
+$Blue: hsl(198, 60%, 50%); // (inside call-to-action gradient)
+$LightRed : hsl(0, 100%, 63%); // (error)
+
+// ### Neutral
+
+$White: hsl(0, 0%, 100%);
+
+// ## Typography -----------------------------------------
+
+// ### Body Copy
+
+$DefaultFontSize: 14px;
+
+// ### Headings, Call-to-actions, Header Navigation ----------------------
+$Raleway: 'Raleway', sans-serif;
+
+
+// ### Body
+$OpenSans: 'Open Sans', sans-serif;
